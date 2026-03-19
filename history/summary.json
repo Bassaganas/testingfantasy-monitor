@@ -4,19 +4,19 @@
     "url": "https://lotr.testingfantasy.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/lotr.testingfantasy.com.ico",
     "slug": "lotr-sut-health",
-    "status": "down",
-    "uptime": "79.92%",
-    "uptimeDay": "79.92%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "79.92%",
-    "uptimeYear": "79.92%",
-    "time": 387,
-    "timeDay": 387,
-    "timeWeek": 387,
-    "timeMonth": 387,
-    "timeYear": 387,
+    "status": "up",
+    "uptime": "77.42%",
+    "uptimeDay": "77.42%",
+    "uptimeWeek": "77.42%",
+    "uptimeMonth": "77.42%",
+    "uptimeYear": "77.42%",
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-03-19": 37
+      "2026-03-19": 43
     }
   },
   {
