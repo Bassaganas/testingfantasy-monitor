@@ -23,3 +23,8 @@ status-website:
   cname: status.testingfantasy.com # Custom CNAME   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+issues:
+  open: true
+  onlyFailures: true
+  onlyDowntime: true
