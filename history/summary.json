@@ -113,26 +113,6 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.fellowship.testingfantasy.com.ico",
     "slug": "shared-jenkins-lotr-fellowship-health",
     "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-04-12": 0
-    }
-  },
-  {
-    "name": "Shared Gitea LOTR fellowship Health",
-    "url": "https://gitea.fellowship.testingfantasy.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
-    "slug": "shared-gitea-lotr-fellowship-health",
-    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -144,7 +124,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 0
+      "2026-04-12": 201
+    }
+  },
+  {
+    "name": "Shared Gitea LOTR fellowship Health",
+    "url": "https://gitea.fellowship.testingfantasy.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
+    "slug": "shared-gitea-lotr-fellowship-health",
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 492,
+    "timeDay": 492,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2026-04-12": 201
     }
   }
 ]
