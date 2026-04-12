@@ -1,7 +1,7 @@
-url: https://lotr-prod.testingfantasy.com/api/health
+url: https://lotr.fellowship.testingfantasy.com/api/health
 status: up
 code: 200
-responseTime: 388
-lastUpdated: 2026-03-19T23:05:09.804Z
+responseTime: 381
+lastUpdated: 2026-04-12T10:18:20.736Z
 startTime: 2026-03-19T22:11:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
