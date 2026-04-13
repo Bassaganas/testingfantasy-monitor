@@ -76,19 +76,19 @@
     "url": "https://testus-patronus.testingfantasy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/testus-patronus.testingfantasy.com.ico",
     "slug": "user-assignments-testus-patronus-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 6977,
-    "timeDay": 6245,
-    "timeWeek": 5987,
-    "timeMonth": 6977,
-    "timeYear": 6977,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 7033,
+    "timeDay": 6864,
+    "timeWeek": 6485,
+    "timeMonth": 7033,
+    "timeYear": 7033,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-13": 46
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.fellowship.testingfantasy.com.ico",
     "slug": "docs-lotr-fellowship-health",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.84%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
     "time": 622,
     "timeDay": 671,
     "timeWeek": 622,
     "timeMonth": 622,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-13": 46
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2026-04-13": 1250,
+      "2026-04-13": 1295,
       "2026-04-12": 821
     }
   },
@@ -138,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
     "slug": "shared-gitea-lotr-fellowship-health",
     "status": "down",
-    "uptime": "72.63%",
-    "uptimeDay": "87.19%",
-    "uptimeWeek": "72.63%",
-    "uptimeMonth": "72.63%",
-    "uptimeYear": "72.63%",
+    "uptime": "71.06%",
+    "uptimeDay": "84.03%",
+    "uptimeWeek": "71.06%",
+    "uptimeMonth": "71.06%",
+    "uptimeYear": "71.06%",
     "time": 510,
     "timeDay": 426,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-04-13": 184,
+      "2026-04-13": 230,
       "2026-04-12": 383
     }
   }
