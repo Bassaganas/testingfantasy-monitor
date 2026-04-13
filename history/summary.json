@@ -76,9 +76,9 @@
     "url": "https://testus-patronus.testingfantasy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/testus-patronus.testingfantasy.com.ico",
     "slug": "user-assignments-testus-patronus-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,25 +87,29 @@
     "timeWeek": 5987,
     "timeMonth": 6977,
     "timeYear": 6977,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   },
   {
     "name": "Docs LOTR fellowship Health",
     "url": "https://docs.fellowship.testingfantasy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fellowship.testingfantasy.com.ico",
     "slug": "docs-lotr-fellowship-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 561,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
-    "dailyMinutesDown": {}
+    "time": 622,
+    "timeDay": 671,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
+    "dailyMinutesDown": {
+      "2026-04-13": 0
+    }
   },
   {
     "name": "Shared Jenkins LOTR fellowship Health",
@@ -124,7 +128,7 @@
     "timeMonth": 434,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2026-04-13": 1066,
+      "2026-04-13": 1250,
       "2026-04-12": 821
     }
   },
@@ -134,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
     "slug": "shared-gitea-lotr-fellowship-health",
     "status": "down",
-    "uptime": "79.72%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "79.72%",
-    "uptimeYear": "79.72%",
+    "uptime": "72.63%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "72.63%",
+    "uptimeMonth": "72.63%",
+    "uptimeYear": "72.63%",
     "time": 510,
     "timeDay": 426,
     "timeWeek": 510,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-04-13": 0,
+      "2026-04-13": 184,
       "2026-04-12": 383
     }
   }
