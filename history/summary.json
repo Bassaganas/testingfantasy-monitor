@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lotr.fellowship.testingfantasy.com.ico",
     "slug": "lotr-prod-sut-health",
     "status": "down",
-    "uptime": "33.92%",
+    "uptime": "33.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "2.64%",
-    "uptimeYear": "33.92%",
+    "uptimeYear": "33.90%",
     "time": 389,
     "timeDay": 0,
     "timeWeek": 0,
@@ -70,7 +70,7 @@
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1130,
-      "2026-07-07": 217,
+      "2026-07-07": 331,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -228,7 +228,7 @@
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 821,
-      "2026-07-07": 217,
+      "2026-07-07": 331,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -316,9 +316,9 @@
     "url": "https://gitea.fellowship.testingfantasy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
     "slug": "shared-gitea-lotr-fellowship-health",
-    "status": "up",
+    "status": "down",
     "uptime": "97.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
@@ -335,7 +335,8 @@
       "2026-04-16": 117,
       "2026-04-18": 123,
       "2026-04-20": 163,
-      "2026-04-21": 781
+      "2026-04-21": 781,
+      "2026-07-07": 0
     }
   }
 ]
